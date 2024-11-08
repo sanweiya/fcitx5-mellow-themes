@@ -1,8 +1,11 @@
 # fcitx5-mellow-themes
 
 Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
+![thumbnail](./preview/thumbnail.png)
 
 ## Usage
+
+Install for the current user: 
 
 ```
 git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
