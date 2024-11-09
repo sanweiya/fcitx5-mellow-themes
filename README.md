@@ -45,5 +45,11 @@ yay -S fcitx5-mellow-themes-git
   ![wechat](./preview/wechat.png) ![wechat-dark](./preview/wechat-dark.png)
 - **Graphite 石墨**
   ![graphite](./preview/graphite.png) ![graphite-dark](./preview/graphite-dark.png)
+- **Vertical & Dual-line**
+  ![vertical](./preview/vertical.png) ![dual](./preview/dual.png)
+
+## Known Issues
+
+- Enabling HiDPI scaling on overly modern desktop environments (eg. KDE Wayland) can result in too large margins and rounded corners on the input window.
 
 ## EOF
