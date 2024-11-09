@@ -4,6 +4,10 @@ Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
 
 ![thumbnail](./preview/thumbnail.png)
 
+## Known Issues
+
+- Enabling HiDPI scaling on overly modern desktop environments (eg. KDE Wayland) can result in too large margins and rounded corners on the input window.
+
 ## Usage
 
 ### Manual Installation
@@ -59,9 +63,5 @@ yay -S fcitx5-mellow-themes-git
 - **Vertical & Dual-line**
   
   ![vertical](./preview/vertical.png) ![dual](./preview/dual.png)
-
-## Known Issues
-
-- Enabling HiDPI scaling on overly modern desktop environments (eg. KDE Wayland) can result in too large margins and rounded corners on the input window.
 
 ## EOF
