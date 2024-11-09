@@ -6,7 +6,7 @@ Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
 
 ## Known Issues
 
-- Enabling HiDPI scaling on overly modern desktop environments (eg. KDE Wayland) can result in too large margins and rounded corners on the input window.
+- This theme is suitable for legacy desktop environments with HiDPI scaling enabled (Xfce X11, Cinnamon X11, etc). I am working on a more universal version.
 
 ## Usage
 
