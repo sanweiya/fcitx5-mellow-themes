@@ -2,7 +2,7 @@
 
 Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
 
-![thumbnail](./preview/thumbnail.png)
+<img src="./preview/thumbnail.png" alt="thumbnail" style="zoom:50%;" />
 
 ## Known Issues
 
@@ -41,27 +41,27 @@ yay -S fcitx5-mellow-themes-git
 ## Screenshots
 
 - **Youlan 釉蓝**
-  
-  ![youlan](./preview/youlan.png) ![youlan-dark](./preview/youlan-dark.png)
-  
+
+  <img src="./preview/youlan.png" alt="youlan" style="zoom:50%;" /> <img src="./preview/youlan-dark.png" alt="youlan-dark" style="zoom:50%;" />
+
 - **Sakura 灰樱**
-  
-  ![sakura](./preview/sakura.png) ![youlan-dark](./preview/sakura-dark.png)
-  
+
+  <img src="./preview/sakura.png" alt="sakura" style="zoom:50%;" /> <img src="./preview/sakura-dark.png" alt="youlan-dark" style="zoom:50%;" />
+
 - **Vermilion 朱砂**
-  
-  ![vermilion](./preview/vermilion.png) ![vermilion-dark](./preview/vermilion-dark.png)
-  
+
+  <img src="./preview/vermilion.png" alt="vermilion" style="zoom:50%;" /> <img src="./preview/vermilion-dark.png" alt="vermilion-dark" style="zoom:50%;" />
+
 - **Wechat 微言**
-  
-  ![wechat](./preview/wechat.png) ![wechat-dark](./preview/wechat-dark.png)
-  
+
+  <img src="./preview/wechat.png" alt="wechat" style="zoom:50%;" /> <img src="./preview/wechat-dark.png" alt="wechat-dark" style="zoom:50%;" />
+
 - **Graphite 石墨**
-  
-  ![graphite](./preview/graphite.png) ![graphite-dark](./preview/graphite-dark.png)
-  
+
+  <img src="./preview/graphite.png" alt="graphite" style="zoom:50%;" /> <img src="./preview/graphite-dark.png" alt="graphite-dark" style="zoom:50%;" />
+
 - **Vertical & Dual-line**
-  
-  ![vertical](./preview/vertical.png) ![dual](./preview/dual.png)
+
+  <img src="./preview/vertical.png" alt="vertical" style="zoom:50%;" /> <img src="./preview/dual.png" alt="dual" style="zoom:50%;" />
 
 ## EOF
