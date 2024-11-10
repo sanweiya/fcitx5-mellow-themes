@@ -62,7 +62,7 @@ Of course you can choose the parts you need to copy.
 yay -S fcitx5-mellow-themes-git
 ```
 
-Not updated yet, equivalent to `fcitx5-mellow-themes-legacy`
+Not updated yet
 
 ## Screenshots
 
