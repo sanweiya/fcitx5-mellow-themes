@@ -42,7 +42,7 @@ Solid version:
 mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow* ~/.local/share/fcitx5/themes
 ```
 
-安装 Kwin 模糊版本: 
+Semi-transparent, blurred version: 
 
 ```
 mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-mellow-* ~/.local/share/fcitx5/themes
