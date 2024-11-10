@@ -62,7 +62,7 @@ mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-mellow-* ~/.local/shar
 yay -S fcitx5-mellow-themes-git
 ```
 
-暂未更新，相当于 `fcitx5-mellow-themes-lagacy`
+暂未更新
 
 ## Screenshots
 
