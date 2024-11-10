@@ -52,17 +52,17 @@ mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-mellow-* ~/.local/shar
 
 ### 社区软件源
 
-#### ~~Arch Linux~~ 
+#### Arch Linux (已过时)
 
-~~[AUR package](https://aur.archlinux.org/packages/fcitx5-mellow-themes-git) maintained by yjun.~~
+[AUR package](https://aur.archlinux.org/packages/fcitx5-mellow-themes-git) maintained by yjun.
 
-~~You can use your preferred AUR helper, for example:~~
+You can use your preferred AUR helper, for example:
 
 ```
 yay -S fcitx5-mellow-themes-git
 ```
 
-暂未更新
+这个 PKGBUILD 依然能正常工作，但不会为你安装KWin模糊的版本。
 
 ## Screenshots
 
