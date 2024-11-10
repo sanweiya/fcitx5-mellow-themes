@@ -1,18 +1,32 @@
+**中文** | [English](./README.en.md)
+
 # fcitx5-mellow-themes
 
-Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
+美观、现代的 fcitx5 主题，采用圆角矩形设计。
 
 ![thumbnail](./preview/thumbnail.png)
 
-## Known Issues
+## 🆕 新特性
 
-- This theme is suitable for legacy desktop environments with HiDPI scaling enabled (Xfce X11, Cinnamon X11, etc). I am working on a more universal version.
+- 适用于 KWin 的输入法窗口半透明模糊
 
-## Usage
+  ![blur](./preview/blur.png)
 
-### Manual Installation
+## 注意
 
-Install for the current user: 
+适用于：
+
+- X11, LoDPI
+
+- Wayland, LoDPI
+
+- Wayland, HiDPI
+
+如果你在使用“X11, HiDPI”，请选择 [fcitx5-mellow-themes-lagacy](https://github.com/sanweiya/fcitx5-mellow-themes-lagacy)
+
+## 使用方法
+
+### 手动安装 (为当前用户) 
 
 ```
 git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
@@ -22,21 +36,33 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
+安装不透明版本: 
+
 ```
-mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow* ~/.local/share/fcitx5/themes
+mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow-* ~/.local/share/fcitx5/themes
 ```
 
-### Community Software Repository
+安装 Kwin 模糊版本: 
 
-#### Arch Linux
+```
+mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-mellow-* ~/.local/share/fcitx5/themes
+```
 
-[AUR package](https://aur.archlinux.org/packages/fcitx5-mellow-themes-git) maintained by yjun.
+当然，也可以自己选择需要复制的部分。
 
-You can use your preferred AUR helper, for example:
+### 社区软件源
+
+#### ~~Arch Linux~~ 
+
+~~[AUR package](https://aur.archlinux.org/packages/fcitx5-mellow-themes-git) maintained by yjun.~~
+
+~~You can use your preferred AUR helper, for example:~~
 
 ```
 yay -S fcitx5-mellow-themes-git
 ```
+
+暂未更新，相当于 `fcitx5-mellow-themes-lagacy`
 
 ## Screenshots
 
