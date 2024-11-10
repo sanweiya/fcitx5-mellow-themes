@@ -22,7 +22,7 @@
 
 - Wayland, HiDPI
 
-如果你在使用“X11, HiDPI”，请选择 [fcitx5-mellow-themes-lagacy](https://github.com/sanweiya/fcitx5-mellow-themes-lagacy)
+如果你在使用“X11, HiDPI”，请选择 [fcitx5-mellow-themes-legacy](https://github.com/sanweiya/fcitx5-mellow-themes-legacy)
 
 ## 使用方法
 

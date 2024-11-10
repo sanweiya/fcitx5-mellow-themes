@@ -22,7 +22,7 @@ Intended for:
 
 - Wayland, HiDPI
 
-For users of “X11, HiDPI”, please check [fcitx5-mellow-themes-lagacy](https://github.com/sanweiya/fcitx5-mellow-themes-lagacy).
+For users of “X11, HiDPI”, please check [fcitx5-mellow-themes-legacy](https://github.com/sanweiya/fcitx5-mellow-themes-legacy).
 
 ## Usage
 
