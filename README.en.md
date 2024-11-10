@@ -8,6 +8,8 @@ Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
 
 ![thumbnail](./preview/thumbnail.png)
 
+> Straight angle enthusiasts? Why not check out [fcitx5-inflex-themes](https://github.com/sanweiya/fcitx5-inflex-themes)
+
 ## What's New
 
 - A semi-transparent, blurred input window for KWin

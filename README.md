@@ -8,6 +8,8 @@
 
 ![thumbnail](./preview/thumbnail.png)
 
+> 直角爱好者？不妨来看看 [fcitx5-inflex-themes](https://github.com/sanweiya/fcitx5-inflex-themes)
+
 ## 🆕 新特性
 
 - 适用于 KWin 的输入法窗口半透明模糊
