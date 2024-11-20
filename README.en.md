@@ -56,7 +56,7 @@ Of course you can choose the parts you need to copy.
 
 ### Community Software Repository
 
-#### Arch Linux (Outdated)
+#### Arch Linux
 
 [AUR package](https://aur.archlinux.org/packages/fcitx5-mellow-themes-git) maintained by yjun.
 
@@ -65,8 +65,6 @@ You can use your preferred AUR helper, for example:
 ```
 yay -S fcitx5-mellow-themes-git
 ```
-
-This PKGBUILD still works, but it will only install solid version.
 
 ## Screenshots
 
