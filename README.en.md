@@ -4,17 +4,19 @@
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/sanweiya/fcitx5-mellow-themes?style=flat&logo=linux&logoColor=000000&logoSize=auto&label=Graphite%20%F0%9F%8C%9F&labelColor=f9f9f9&color=808080)](https://github.com/sanweiya/fcitx5-mellow-themes/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/sanweiya/fcitx5-mellow-themes?style=flat&logo=linux&logoColor=000000&logoSize=auto&label=Youlan%20%F0%9F%8C%9F&labelColor=f9f9f9&color=1680b4)](https://github.com/sanweiya/fcitx5-mellow-themes/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/sanweiya/fcitx5-mellow-themes?style=flat&logo=linux&logoColor=000000&logoSize=auto&label=Sakura%20%F0%9F%8C%9F&labelColor=f9f9f9&color=e8d2d0)](https://github.com/sanweiya/fcitx5-mellow-themes/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/sanweiya/fcitx5-mellow-themes?style=flat&logo=linux&logoColor=000000&logoSize=auto&label=Wechat%20%F0%9F%8C%9F&labelColor=f9f9f9&color=31a76f)](https://github.com/sanweiya/fcitx5-mellow-themes/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/sanweiya/fcitx5-mellow-themes?style=flat&logo=linux&logoColor=000000&logoSize=auto&label=Vermilion%20%F0%9F%8C%9F&labelColor=f9f9f9&color=c73c37)](https://github.com/sanweiya/fcitx5-mellow-themes/stargazers)
 
-Aesthetic, modern fcitx5 theme featuring rounded rectangle design.
+Aesthetic, modern fcitx5 themes featuring rounded rectangle design.
 
 ![thumbnail](./preview/thumbnail.png)
 
 > Straight angle enthusiasts? Why not check out [fcitx5-inflex-themes](https://github.com/sanweiya/fcitx5-inflex-themes)
 
-## What's New
+## ⚠️~~What's New~~
 
-- A semi-transparent, blurred input window for KWin
+- ~~A semi-transparent, blurred input window for KWin~~
 
   ![blur](./preview/blur.png)
+  
+  This variant of themes will no longer be released as I can't be bothered to fix it.
 
 ## Notice
 
@@ -26,7 +28,7 @@ Intended for:
 
 - Wayland, HiDPI
 
-For users of “X11, HiDPI”, please check [fcitx5-mellow-themes-legacy](https://github.com/sanweiya/fcitx5-mellow-themes-legacy).
+For users of “X11, HiDPI”, ~~please check [fcitx5-mellow-themes-legacy](https://github.com/sanweiya/fcitx5-mellow-themes-legacy) (Obsolete)~~, the display scaling for the themes may not be ideal.
 
 ## Usage
 
@@ -40,16 +42,8 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
-Solid version:
-
 ```
 mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow* ~/.local/share/fcitx5/themes
-```
-
-Semi-transparent, blurred version: 
-
-```
-mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-mellow-* ~/.local/share/fcitx5/themes
 ```
 
 Of course you can choose the parts you need to copy.
