@@ -13,10 +13,10 @@ Aesthetic, modern fcitx5 themes featuring rounded rectangle design.
 ## ⚠️~~What's New~~
 
 - ~~A semi-transparent, blurred input window for KWin~~
-
+  
   ![blur](./preview/blur.png)
   
-  This variant of themes will no longer be released as I can't be bothered to fix it.
+  ~~This variant of themes will no longer be released as I can't be bothered to fix it.~~The current version only fixes the blur for the dark style. The light version seems unable to display properly due to a blur-mask issue (by [Limou233](https://github.com/Limou233/)).
 
 ## Notice
 
@@ -65,23 +65,23 @@ yay -S fcitx5-mellow-themes-git
 - **Youlan 釉蓝**
   
   ![youlan](./preview/youlan.png) ![youlan-dark](./preview/youlan-dark.png)
-  
+
 - **Sakura 灰樱**
   
   ![sakura](./preview/sakura.png) ![youlan-dark](./preview/sakura-dark.png)
-  
+
 - **Vermilion 朱砂**
   
   ![vermilion](./preview/vermilion.png) ![vermilion-dark](./preview/vermilion-dark.png)
-  
+
 - **Wechat 微言**
   
   ![wechat](./preview/wechat.png) ![wechat-dark](./preview/wechat-dark.png)
-  
+
 - **Graphite 石墨**
   
   ![graphite](./preview/graphite.png) ![graphite-dark](./preview/graphite-dark.png)
-  
+
 - **Vertical & Dual-line**
   
   ![vertical](./preview/vertical.png) ![dual](./preview/dual.png)
