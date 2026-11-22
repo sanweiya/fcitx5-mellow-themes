@@ -10,14 +10,6 @@ Aesthetic, modern fcitx5 themes featuring rounded rectangle design.
 
 > Straight angle enthusiasts? Why not check out [fcitx5-inflex-themes](https://github.com/sanweiya/fcitx5-inflex-themes)
 
-## ⚠️~~What's New~~
-
-- ~~A semi-transparent, blurred input window for KWin~~
-
-  ![blur](./preview/blur.png)
-  
-  This variant of themes will no longer be released as I can't be bothered to fix it.
-
 ## Notice
 
 Intended for: 
@@ -42,7 +34,7 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
-The repository ships four variant directories; pick **one** to install (theme folders share the same names inside, so installing multiple variants at once overwrites each other):
+The repository ships four variant directories. Compact themes carry a Compact marker in both folder and display name (`mellow-compact-*` / `Mellow Compact *`) and can coexist with the standard ones; 2x themes share names with their 1x counterparts, so installing 2x overwrites them:
 
 | Directory | Variant | Intended for |
 | --- | --- | --- |

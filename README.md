@@ -10,14 +10,6 @@
 
 > 直角爱好者？不妨来看看 [fcitx5-inflex-themes](https://github.com/sanweiya/fcitx5-inflex-themes)
 
-## ⚠️~~KWin下的半透明模糊~~
-
-- ~~适用于 KWin 的输入法窗口半透明模糊~~
-
-  ![blur](./preview/blur.png)
-  
-  由于懒得修复，不再发布该变体主题。
-
 ## 注意
 
 适用于：
@@ -42,7 +34,7 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
-仓库包含四个变体目录，按需选择**其中一个**安装（各变体内主题目录同名，同一时刻安装多个变体会互相覆盖）：
+仓库包含四个变体目录，按需选择安装：紧凑版主题目录与显示名均带 Compact 标识（`mellow-compact-*` / `Mellow Compact *`），可与普通版同时安装；2x 与对应 1x 的主题同名，安装 2x 会覆盖同名 1x 主题：
 
 | 目录 | 变体 | 适用环境 |
 | --- | --- | --- |
