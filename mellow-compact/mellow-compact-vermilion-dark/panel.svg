@@ -75,7 +75,7 @@
        id="title2">Layer 1</title>
     <path
        id="svg_1"
-       d="m 14.75,6.75 h 1.5 c 4.080771,0 7,2.919230 7,7 v 3.5 c 0,4.080771 -2.919230,7 -7,7 h -1.5 c -4.080771,0 -7,-2.919230 -7,-7 v -3.5 c 0,-4.080771 2.919230,-7 7,-7 z"
+       d="m 13.25,6.25 h 4.5 c 4.080771,0 7,2.919230 7,7 v 4.5 c 0,4.080771 -2.919230,7 -7,7 h -4.5 c -4.080771,0 -7,-2.919230 -7,-7 v -4.5 c 0,-4.080771 2.919230,-7 7,-7 z"
        style="fill:#151515;fill-opacity:1;stroke:#909090;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter480)"
        sodipodi:nodetypes="sssssssss" />
   </g>

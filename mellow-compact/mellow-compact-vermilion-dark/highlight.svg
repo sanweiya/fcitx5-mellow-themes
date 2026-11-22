@@ -69,16 +69,16 @@
      inkscape:current-layer="svg6" />
   <path
      id="svg_1"
-     width="32"
-     height="36"
-     x="14.000001"
-     y="12.000001"
+     width="34"
+     height="34"
+     x="13.000001"
+     y="13.000001"
      fill="#015ad7"
      stroke="#000000"
      stroke-width="0"
      rx="0"
      sodipodi:type="rect"
-     d="m 24.000001,12.000001 h 12 a 10,10 0 0 1 10,10 v 16 a 10,10 0 0 1 -10,10 h -12 a 10,10 0 0 1 -10,-10 v -16 a 10,10 0 0 1 10,-10 z"
+     d="m 23.000001,13.000001 h 14 a 10,10 0 0 1 10,10 v 14 a 10,10 0 0 1 -10,10 h -14 a 10,10 0 0 1 -10,-10 v -14 a 10,10 0 0 1 10,-10 z"
      inkscape:path-effect="#path-effect998"
      style="fill:#9E322E;fill-opacity:1"
      transform="matrix(0.5,0,0,0.5,0.49999952,0.49999952)" />
