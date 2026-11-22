@@ -42,11 +42,20 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
+The repository ships four variant directories; pick **one** to install (theme folders share the same names inside, so installing multiple variants at once overwrites each other):
+
+| Directory | Variant | Intended for |
+| --- | --- | --- |
+| `mellow/` | Standard | X11 / Wayland, LoDPI |
+| `mellow-2x/` | Standard 2x | Wayland, HiDPI |
+| `mellow-compact/` | Compact | X11 / Wayland, LoDPI |
+| `mellow-compact-2x/` | Compact 2x | Wayland, HiDPI |
+
 ```
-mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow* ~/.local/share/fcitx5/themes
+mkdir -p ~/.local/share/fcitx5/themes && cp -r mellow/mellow-* ~/.local/share/fcitx5/themes
 ```
 
-Of course you can choose the parts you need to copy.
+Replace `mellow/` in the command with any of the other three directories to install that variant. Of course you can choose the parts you need to copy.
 
 ### Community Software Repository
 

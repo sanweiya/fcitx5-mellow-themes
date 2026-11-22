@@ -42,11 +42,20 @@ git clone https://github.com/sanweiya/fcitx5-mellow-themes.git
 cd fcitx5-mellow-themes/
 ```
 
+仓库包含四个变体目录，按需选择**其中一个**安装（各变体内主题目录同名，同一时刻安装多个变体会互相覆盖）：
+
+| 目录 | 变体 | 适用环境 |
+| --- | --- | --- |
+| `mellow/` | 普通版 | X11 / Wayland, LoDPI |
+| `mellow-2x/` | 普通版 2x | Wayland, HiDPI |
+| `mellow-compact/` | 紧凑版 | X11 / Wayland, LoDPI |
+| `mellow-compact-2x/` | 紧凑版 2x | Wayland, HiDPI |
+
 ```
-mkdir -p ~/.local/share/fcitx5/themes && cp -r ./mellow-* ~/.local/share/fcitx5/themes
+mkdir -p ~/.local/share/fcitx5/themes && cp -r mellow/mellow-* ~/.local/share/fcitx5/themes
 ```
 
-当然，也可以自己选择需要复制的部分。
+把命令中的 `mellow/` 换成其余三个目录之一，即可安装对应变体。当然，也可以自己选择需要复制的部分。
 
 ### 社区软件源
 
