@@ -84,6 +84,10 @@ Dependencies: only the 2x scale option needs Python 3 (scaling is performed by t
 > mellow-compact-000000
 ```
 
+### KWin Blur (discontinued)
+
+The semi-transparent blur variant for KWin has been discontinued and is no longer provided. If needed, it is very easy to build and test your own based on the existing theme assets with the help of an AI agent.
+
 ### Community Software Repository (outdated)
 
 #### AUR

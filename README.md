@@ -84,6 +84,10 @@ mkdir -p ~/.local/share/fcitx5/themes && cp -r mellow/mellow-* ~/.local/share/fc
 > mellow-compact-000000
 ```
 
+### KWin 半透明模糊（已停止发布）
+
+KWin 下的半透明模糊变体已停止发布，本仓库不再提供。如有需要，可基于现有主题素材借助 AI Agent 自行制作并测试，十分容易。
+
 ### 社区软件源 (已过时)
 
 #### AUR
